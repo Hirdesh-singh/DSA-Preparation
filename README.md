@@ -128,10 +128,12 @@ Keep solving. Keep improving. 🚀
 | [0001-two-sum](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0217-contains-duplicate](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0217-contains-duplicate) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0217-contains-duplicate) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -141,4 +143,8 @@ Keep solving. Keep improving. 🚀
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0053-maximum-subarray) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
