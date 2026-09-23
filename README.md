@@ -119,3 +119,15 @@ This repository is continuously updated as I solve more problems and learn new D
 **Consistency > Speed.**
 
 Keep solving. Keep improving. 🚀
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0001-two-sum) |
+<!---LeetCode Topics End-->
