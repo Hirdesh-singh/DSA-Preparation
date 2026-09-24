@@ -162,4 +162,12 @@ Keep solving. Keep improving. 🚀
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0020-valid-parentheses) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
