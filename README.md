@@ -126,6 +126,7 @@ Keep solving. Keep improving. 🚀
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0001-two-sum) |
+| [0039-combination-sum](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0039-combination-sum) |
 | [0053-maximum-subarray](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0053-maximum-subarray) |
 | [0078-subsets](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -182,6 +183,7 @@ Keep solving. Keep improving. 🚀
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0078-subsets) |
 ## Bit Manipulation
 |  |
