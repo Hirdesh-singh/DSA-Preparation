@@ -133,6 +133,7 @@ Keep solving. Keep improving. 🚀
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0217-contains-duplicate](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0242-valid-anagram) |
 ## Dynamic Programming
@@ -152,6 +153,7 @@ Keep solving. Keep improving. 🚀
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0242-valid-anagram) |
 ## Stack
@@ -172,4 +174,8 @@ Keep solving. Keep improving. 🚀
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0206-reverse-linked-list) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
