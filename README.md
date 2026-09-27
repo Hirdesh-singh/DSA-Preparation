@@ -145,6 +145,7 @@ Keep solving. Keep improving. 🚀
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0646-maximum-length-of-pair-chain) |
 ## Divide and Conquer
@@ -243,4 +244,12 @@ Keep solving. Keep improving. 🚀
 |  |
 | ------- |
 | [0646-maximum-length-of-pair-chain](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0646-maximum-length-of-pair-chain) |
+## Math
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
