@@ -130,6 +130,7 @@ Keep solving. Keep improving. 🚀
 | [0053-maximum-subarray](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0053-maximum-subarray) |
 | [0078-subsets](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0200-number-of-islands](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0217-contains-duplicate) |
 ## Hash Table
 |  |
@@ -196,6 +197,7 @@ Keep solving. Keep improving. 🚀
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0200-number-of-islands) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0547-number-of-provinces](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0547-number-of-provinces) |
 ## Binary Tree
@@ -213,13 +215,19 @@ Keep solving. Keep improving. 🚀
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0547-number-of-provinces) |
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0547-number-of-provinces) |
 ## Graph Theory
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0547-number-of-provinces) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
