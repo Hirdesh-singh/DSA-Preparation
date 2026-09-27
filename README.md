@@ -197,6 +197,7 @@ Keep solving. Keep improving. 🚀
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0547-number-of-provinces](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0547-number-of-provinces) |
 ## Binary Tree
 |  |
 | ------- |
@@ -209,4 +210,16 @@ Keep solving. Keep improving. 🚀
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0547-number-of-provinces) |
+## Union-Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0547-number-of-provinces) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
