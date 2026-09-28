@@ -128,6 +128,7 @@ Keep solving. Keep improving. 🚀
 | [0001-two-sum](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0001-two-sum) |
 | [0039-combination-sum](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0039-combination-sum) |
 | [0053-maximum-subarray](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0053-maximum-subarray) |
+| [0064-minimum-path-sum](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0064-minimum-path-sum) |
 | [0078-subsets](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0135-candy](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0135-candy) |
@@ -148,6 +149,7 @@ Keep solving. Keep improving. 🚀
 | ------- |
 | [0053-maximum-subarray](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0062-unique-paths) |
+| [0064-minimum-path-sum](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0198-house-robber) |
@@ -243,6 +245,7 @@ Keep solving. Keep improving. 🚀
 ## Matrix
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0064-minimum-path-sum) |
 | [0200-number-of-islands](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0200-number-of-islands) |
 ## Greedy
 |  |
