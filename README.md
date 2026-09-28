@@ -150,6 +150,7 @@ Keep solving. Keep improving. 🚀
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0198-house-robber) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0646-maximum-length-of-pair-chain) |
+| [1143-longest-common-subsequence](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/1143-longest-common-subsequence) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -166,6 +167,7 @@ Keep solving. Keep improving. 🚀
 | [0003-longest-substring-without-repeating-characters](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0242-valid-anagram) |
+| [1143-longest-common-subsequence](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/1143-longest-common-subsequence) |
 ## Stack
 |  |
 | ------- |
@@ -254,4 +256,8 @@ Keep solving. Keep improving. 🚀
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0070-climbing-stairs) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
