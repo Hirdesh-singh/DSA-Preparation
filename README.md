@@ -147,6 +147,7 @@ Keep solving. Keep improving. 🚀
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0198-house-robber) |
@@ -256,6 +257,7 @@ Keep solving. Keep improving. 🚀
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0070-climbing-stairs) |
 ## Memoization
 |  |
@@ -269,4 +271,8 @@ Keep solving. Keep improving. 🚀
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0300-longest-increasing-subsequence) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
