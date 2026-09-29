@@ -126,6 +126,7 @@ Keep solving. Keep improving. 🚀
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0039-combination-sum) |
 | [0053-maximum-subarray](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0053-maximum-subarray) |
@@ -165,6 +166,7 @@ Keep solving. Keep improving. 🚀
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0015-3sum) |
 | [0217-contains-duplicate](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0242-valid-anagram) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0646-maximum-length-of-pair-chain) |
@@ -280,4 +282,8 @@ Keep solving. Keep improving. 🚀
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0062-unique-paths) |
+## Two Pointers
+|  |
+| ------- |
+| [0015-3sum](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
