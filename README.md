@@ -126,6 +126,7 @@ Keep solving. Keep improving. 🚀
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0001-two-sum) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0039-combination-sum) |
 | [0053-maximum-subarray](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0064-minimum-path-sum) |
@@ -273,6 +274,7 @@ Keep solving. Keep improving. 🚀
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0033-search-in-rotated-sorted-array) |
 | [0300-longest-increasing-subsequence](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0300-longest-increasing-subsequence) |
 ## Combinatorics
 |  |
