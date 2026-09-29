@@ -126,6 +126,7 @@ Keep solving. Keep improving. 🚀
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0039-combination-sum) |
@@ -253,6 +254,7 @@ Keep solving. Keep improving. 🚀
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0011-container-with-most-water) |
 | [0135-candy](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0135-candy) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0646-maximum-length-of-pair-chain) |
 ## Longest Increasing Subsequence
@@ -285,5 +287,6 @@ Keep solving. Keep improving. 🚀
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
