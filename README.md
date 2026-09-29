@@ -213,17 +213,20 @@ Keep solving. Keep improving. 🚀
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0098-validate-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0102-binary-tree-level-order-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0098-validate-binary-search-tree) |
 | [0200-number-of-islands](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0200-number-of-islands) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0547-number-of-provinces](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0547-number-of-provinces) |
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0098-validate-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0102-binary-tree-level-order-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Binary Lifting
@@ -292,4 +295,8 @@ Keep solving. Keep improving. 🚀
 | ------- |
 | [0011-container-with-most-water](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0015-3sum) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->
