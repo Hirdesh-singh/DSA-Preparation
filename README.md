@@ -148,6 +148,7 @@ Keep solving. Keep improving. 🚀
 | ------- |
 | [0001-two-sum](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0141-linked-list-cycle](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0242-valid-anagram) |
@@ -197,6 +198,7 @@ Keep solving. Keep improving. 🚀
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0021-merge-two-sorted-lists) |
+| [0141-linked-list-cycle](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
@@ -302,6 +304,7 @@ Keep solving. Keep improving. 🚀
 | ------- |
 | [0011-container-with-most-water](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0015-3sum) |
+| [0141-linked-list-cycle](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0141-linked-list-cycle) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -318,4 +321,8 @@ Keep solving. Keep improving. 🚀
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0238-product-of-array-except-self) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
