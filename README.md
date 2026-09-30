@@ -135,6 +135,7 @@ Keep solving. Keep improving. 🚀
 | [0078-subsets](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0135-candy](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0135-candy) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0200-number-of-islands) |
@@ -290,6 +291,7 @@ Keep solving. Keep improving. 🚀
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0033-search-in-rotated-sorted-array) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0300-longest-increasing-subsequence](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0300-longest-increasing-subsequence) |
 ## Combinatorics
 |  |
