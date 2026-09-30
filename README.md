@@ -139,6 +139,7 @@ Keep solving. Keep improving. 🚀
 | [0198-house-robber](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0238-product-of-array-except-self) |
 | [0300-longest-increasing-subsequence](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0300-longest-increasing-subsequence) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0646-maximum-length-of-pair-chain) |
 ## Hash Table
@@ -311,4 +312,8 @@ Keep solving. Keep improving. 🚀
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0169-majority-element) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
