@@ -130,6 +130,7 @@ Keep solving. Keep improving. 🚀
 | [0015-3sum](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0039-combination-sum) |
+| [0046-permutations](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0064-minimum-path-sum) |
 | [0078-subsets](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0078-subsets) |
@@ -217,6 +218,7 @@ Keep solving. Keep improving. 🚀
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0039-combination-sum) |
+| [0046-permutations](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0078-subsets) |
 ## Bit Manipulation
 |  |
