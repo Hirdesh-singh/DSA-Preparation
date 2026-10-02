@@ -191,11 +191,13 @@ Keep solving. Keep improving. 🚀
 | [0020-valid-parentheses](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0242-valid-anagram) |
 | [0516-longest-palindromic-subsequence](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0516-longest-palindromic-subsequence) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1143-longest-common-subsequence](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/1143-longest-common-subsequence) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0020-valid-parentheses) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Bracket Sequences
 |  |
 | ------- |
