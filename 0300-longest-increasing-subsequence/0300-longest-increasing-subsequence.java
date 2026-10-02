@@ -3,15 +3,17 @@ class Solution {
         int n=nums.length;
         int[] dp=new int[n];
         Arrays.fill(dp,1);
+        int ans=0;
         for(int i=0;i<n;i++){
             for(int j=0;j<i;j++){
-                if(nums[j]<nums[i]){
+                if(nums[i]>nums[j]){
                     dp[i]=Math.max(dp[i], dp[j]+1);
+
                 }
             }
+            ans=Math.max(ans, dp[i]);
         }
-        Arrays.sort(dp);
-        return dp[n-1];
+        return ans;
         
     }
 }
