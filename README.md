@@ -145,6 +145,7 @@ Keep solving. Keep improving. 🚀
 | [0300-longest-increasing-subsequence](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0300-longest-increasing-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0347-top-k-frequent-elements) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0646-maximum-length-of-pair-chain) |
+| [0704-binary-search](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0704-binary-search) |
 ## Hash Table
 |  |
 | ------- |
@@ -301,6 +302,7 @@ Keep solving. Keep improving. 🚀
 | [0033-search-in-rotated-sorted-array](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0300-longest-increasing-subsequence](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0300-longest-increasing-subsequence) |
+| [0704-binary-search](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0704-binary-search) |
 ## Combinatorics
 |  |
 | ------- |
