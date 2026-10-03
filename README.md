@@ -142,6 +142,7 @@ Keep solving. Keep improving. 🚀
 | [0200-number-of-islands](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0238-product-of-array-except-self) |
+| [0283-move-zeroes](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0300-longest-increasing-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0347-top-k-frequent-elements) |
 | [0416-partition-equal-subset-sum](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0416-partition-equal-subset-sum) |
@@ -320,6 +321,7 @@ Keep solving. Keep improving. 🚀
 | [0011-container-with-most-water](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0015-3sum) |
 | [0141-linked-list-cycle](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0141-linked-list-cycle) |
+| [0283-move-zeroes](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0283-move-zeroes) |
 ## Binary Search Tree
 |  |
 | ------- |
