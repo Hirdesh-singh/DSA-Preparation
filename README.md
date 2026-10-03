@@ -196,6 +196,7 @@ Keep solving. Keep improving. 🚀
 | [0003-longest-substring-without-repeating-characters](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0242-valid-anagram) |
+| [0443-string-compression](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0443-string-compression) |
 | [0516-longest-palindromic-subsequence](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0516-longest-palindromic-subsequence) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1143-longest-common-subsequence](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/1143-longest-common-subsequence) |
@@ -325,6 +326,7 @@ Keep solving. Keep improving. 🚀
 | [0088-merge-sorted-array](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0141-linked-list-cycle) |
 | [0283-move-zeroes](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0283-move-zeroes) |
+| [0443-string-compression](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0443-string-compression) |
 ## Binary Search Tree
 |  |
 | ------- |
