@@ -147,6 +147,7 @@ Keep solving. Keep improving. 🚀
 | [0416-partition-equal-subset-sum](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0416-partition-equal-subset-sum) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0646-maximum-length-of-pair-chain) |
 | [0704-binary-search](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0704-binary-search) |
+| [0713-subarray-product-less-than-k](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0713-subarray-product-less-than-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -219,6 +220,7 @@ Keep solving. Keep improving. 🚀
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0713-subarray-product-less-than-k](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0713-subarray-product-less-than-k) |
 ## Backtracking
 |  |
 | ------- |
@@ -307,6 +309,7 @@ Keep solving. Keep improving. 🚀
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0300-longest-increasing-subsequence](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0300-longest-increasing-subsequence) |
 | [0704-binary-search](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0704-binary-search) |
+| [0713-subarray-product-less-than-k](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0713-subarray-product-less-than-k) |
 ## Combinatorics
 |  |
 | ------- |
@@ -334,6 +337,7 @@ Keep solving. Keep improving. 🚀
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0238-product-of-array-except-self) |
+| [0713-subarray-product-less-than-k](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0713-subarray-product-less-than-k) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
