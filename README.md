@@ -134,6 +134,7 @@ Keep solving. Keep improving. 🚀
 | [0049-group-anagrams](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0064-minimum-path-sum) |
+| [0075-sort-colors](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -187,6 +188,7 @@ Keep solving. Keep improving. 🚀
 | ------- |
 | [0015-3sum](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0217-contains-duplicate) |
@@ -327,6 +329,7 @@ Keep solving. Keep improving. 🚀
 | ------- |
 | [0011-container-with-most-water](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0141-linked-list-cycle) |
 | [0283-move-zeroes](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0283-move-zeroes) |
@@ -373,4 +376,12 @@ Keep solving. Keep improving. 🚀
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0416-partition-equal-subset-sum) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
