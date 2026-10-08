@@ -150,6 +150,7 @@ Keep solving. Keep improving. 🚀
 | [0238-product-of-array-except-self](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0300-longest-increasing-subsequence) |
+| [0304-range-sum-query-2d-immutable](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0304-range-sum-query-2d-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0347-top-k-frequent-elements) |
 | [0416-partition-equal-subset-sum](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0416-partition-equal-subset-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0560-subarray-sum-equals-k) |
@@ -296,6 +297,7 @@ Keep solving. Keep improving. 🚀
 | ------- |
 | [0064-minimum-path-sum](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0064-minimum-path-sum) |
 | [0200-number-of-islands](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0200-number-of-islands) |
+| [0304-range-sum-query-2d-immutable](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0304-range-sum-query-2d-immutable) |
 ## Greedy
 |  |
 | ------- |
@@ -363,6 +365,7 @@ Keep solving. Keep improving. 🚀
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0238-product-of-array-except-self) |
+| [0304-range-sum-query-2d-immutable](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0304-range-sum-query-2d-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0713-subarray-product-less-than-k) |
 ## Floyd's Cycle Finding Algorithm
@@ -397,4 +400,8 @@ Keep solving. Keep improving. 🚀
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0075-sort-colors) |
+## Design
+|  |
+| ------- |
+| [0304-range-sum-query-2d-immutable](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0304-range-sum-query-2d-immutable) |
 <!---LeetCode Topics End-->
