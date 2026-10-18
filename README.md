@@ -157,6 +157,7 @@ Keep solving. Keep improving. 🚀
 | [0646-maximum-length-of-pair-chain](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0646-maximum-length-of-pair-chain) |
 | [0704-binary-search](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0713-subarray-product-less-than-k) |
+| [0875-koko-eating-bananas](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0875-koko-eating-bananas) |
 ## Hash Table
 |  |
 | ------- |
@@ -332,6 +333,7 @@ Keep solving. Keep improving. 🚀
 | [0300-longest-increasing-subsequence](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0300-longest-increasing-subsequence) |
 | [0704-binary-search](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0713-subarray-product-less-than-k) |
+| [0875-koko-eating-bananas](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0875-koko-eating-bananas) |
 ## Combinatorics
 |  |
 | ------- |
