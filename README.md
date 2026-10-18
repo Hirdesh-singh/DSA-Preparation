@@ -158,6 +158,7 @@ Keep solving. Keep improving. 🚀
 | [0704-binary-search](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0713-subarray-product-less-than-k) |
 | [0875-koko-eating-bananas](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0875-koko-eating-bananas) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Hash Table
 |  |
 | ------- |
@@ -334,6 +335,7 @@ Keep solving. Keep improving. 🚀
 | [0704-binary-search](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0713-subarray-product-less-than-k) |
 | [0875-koko-eating-bananas](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0875-koko-eating-bananas) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Combinatorics
 |  |
 | ------- |
