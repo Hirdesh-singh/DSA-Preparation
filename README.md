@@ -231,6 +231,7 @@ Keep solving. Keep improving. 🚀
 | [0021-merge-two-sorted-lists](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0206-reverse-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -352,6 +353,7 @@ Keep solving. Keep improving. 🚀
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0283-move-zeroes) |
 | [0443-string-compression](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0443-string-compression) |
+| [0876-middle-of-the-linked-list](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0876-middle-of-the-linked-list) |
 ## Binary Search Tree
 |  |
 | ------- |
