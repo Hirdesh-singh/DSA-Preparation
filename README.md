@@ -222,6 +222,7 @@ Keep solving. Keep improving. 🚀
 | ------- |
 | [0020-valid-parentheses](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0144-binary-tree-preorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0234-palindrome-linked-list) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Bracket Sequences
@@ -266,12 +267,14 @@ Keep solving. Keep improving. 🚀
 | [0094-binary-tree-inorder-traversal](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0098-validate-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0102-binary-tree-level-order-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0144-binary-tree-preorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0098-validate-binary-search-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0144-binary-tree-preorder-traversal) |
 | [0200-number-of-islands](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0200-number-of-islands) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0547-number-of-provinces](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0547-number-of-provinces) |
@@ -281,6 +284,7 @@ Keep solving. Keep improving. 🚀
 | [0094-binary-tree-inorder-traversal](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0098-validate-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0102-binary-tree-level-order-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0144-binary-tree-preorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Binary Lifting
 |  |
