@@ -192,6 +192,7 @@ Keep solving. Keep improving. 🚀
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0215-kth-largest-element-in-an-array) |
@@ -241,6 +242,7 @@ Keep solving. Keep improving. 🚀
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0023-merge-k-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0206-reverse-linked-list) |
@@ -431,6 +433,7 @@ Keep solving. Keep improving. 🚀
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0347-top-k-frequent-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0973-k-closest-points-to-origin) |
@@ -476,4 +479,12 @@ Keep solving. Keep improving. 🚀
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0973-k-closest-points-to-origin) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0023-merge-k-sorted-lists) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
