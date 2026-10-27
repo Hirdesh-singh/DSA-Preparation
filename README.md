@@ -159,6 +159,7 @@ Keep solving. Keep improving. 🚀
 | [0704-binary-search](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0713-subarray-product-less-than-k) |
 | [0875-koko-eating-bananas](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0875-koko-eating-bananas) |
+| [0973-k-closest-points-to-origin](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0973-k-closest-points-to-origin) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Hash Table
 |  |
@@ -195,6 +196,7 @@ Keep solving. Keep improving. 🚀
 | [0169-majority-element](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0973-k-closest-points-to-origin) |
 ## Sorting
 |  |
 | ------- |
@@ -208,6 +210,7 @@ Keep solving. Keep improving. 🚀
 | [0242-valid-anagram](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0347-top-k-frequent-elements) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0646-maximum-length-of-pair-chain) |
+| [0973-k-closest-points-to-origin](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0973-k-closest-points-to-origin) |
 ## String
 |  |
 | ------- |
@@ -358,6 +361,7 @@ Keep solving. Keep improving. 🚀
 | ------- |
 | [0062-unique-paths](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0070-climbing-stairs) |
+| [0973-k-closest-points-to-origin](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0973-k-closest-points-to-origin) |
 ## Memoization
 |  |
 | ------- |
@@ -429,6 +433,7 @@ Keep solving. Keep improving. 🚀
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0973-k-closest-points-to-origin) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -438,6 +443,7 @@ Keep solving. Keep improving. 🚀
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0973-k-closest-points-to-origin) |
 ## Knapsack Problem
 |  |
 | ------- |
@@ -462,4 +468,12 @@ Keep solving. Keep improving. 🚀
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0543-diameter-of-binary-tree) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0973-k-closest-points-to-origin) |
+## K-D Tree
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
