@@ -275,6 +275,7 @@ Keep solving. Keep improving. 🚀
 | [0226-invert-binary-tree](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -288,6 +289,7 @@ Keep solving. Keep improving. 🚀
 | [0226-invert-binary-tree](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0547-number-of-provinces) |
 ## Binary Tree
 |  |
@@ -302,6 +304,7 @@ Keep solving. Keep improving. 🚀
 | [0226-invert-binary-tree](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Lifting
 |  |
 | ------- |
@@ -450,4 +453,8 @@ Keep solving. Keep improving. 🚀
 |  |
 | ------- |
 | [0304-range-sum-query-2d-immutable](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0304-range-sum-query-2d-immutable) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/Hirdesh-singh/DSA-Preparation/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
